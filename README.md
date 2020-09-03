@@ -33,4 +33,5 @@ Best Results  were obtained from XGBoost model with a set of best parameters whi
 -Gini: 42.6 to 45.7%
 
 The achieved objectives of this project has been published in the following research paper titled "Family Breeds Contagion": https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3509386
+
 (Dataset related to this project is confidential and was obtained from a bank)
