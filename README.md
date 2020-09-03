@@ -31,3 +31,5 @@ Best Results  were obtained from XGBoost model with a set of best parameters whi
 -Recall: 55.4 to 57.6%
 
 -Gini: 42.6 to 45.7%
+
+The achieved objectives of this project has been published in the following research paper titled "Family Breeds Contagion": https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3509386
